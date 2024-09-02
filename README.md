@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-# Java Engineer - Indu Muppalaneni
+# I am a Java Full stack developer- Indu Muppalaneni
 
 ## Overview
-I am a Java Engineer with a strong background in software development. My expertise lies in Java development, complemented by skills in HTML, SQL, and Python. I have hands-on experience in building robust and scalable applications, and I am passionate about leveraging technology to solve real-world problems.
+I am a Java Full Stack Developer with a strong background in software development. My expertise lies in Java development, completed by skills in HTML, SQL, and Python. I have hands-on experience in building robust and scalable applications, and I am passionate about leveraging technology to solve real-world problems.
 
 ## Skills
 - **Java Development**: Proficient in object-oriented programming, multi-threading, collections framework, and Java-based web development.
@@ -15,8 +15,8 @@ I am a Java Engineer with a strong background in software development. My expert
 - **Python**: Knowledgeable in scripting, automation, and developing applications using Python.
 
 ## Projects
-### HealthCare Chatbot System
-- **Description**: Developed a medical chatbot using AI to diagnose diseases and provide basic information before consulting a doctor.
+### Network Introusion Detection using supervised machine learning Technique with feature selection
+- **Description**: I have presented different machine learning models with different algorithms to find vest models.
 - **Technologies**: Python
 
 ### Bus Management System
@@ -34,7 +34,7 @@ I am a Java Engineer with a strong background in software development. My expert
 ## Contact
 - **Email**: indumuppalaneni@gmail.com
 - **Phone**: 6301849729
-- **Location**: Rk Sai Soudhas Apartment, Gorentla, Guntu
+- **Location**: Andhra Pradesh,India.
 
 <!---
 indumuppalaneni123/indumuppalaneni123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
