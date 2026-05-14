@@ -27,14 +27,16 @@ I am a Java Full Stack Developer with a strong background in software developmen
 - **B.Tech in Computer Science Engineering**
   - Acharya nagarjuna University (ciet), 2023
   - CGPA: 8.07
+  - Master of science in Data Science
+  - Aston University
 
 ## Achievements
 - Organized a successful charity event.
 
 ## Contact
 - **Email**: indumuppalaneni@gmail.com
-- **Phone**: 6301849729
-- **Location**: Andhra Pradesh,India.
+- **Phone**: 07900890749
+- **Location**: coventry(cv2 3ga),united kingdom.
 
 <!---
 indumuppalaneni123/indumuppalaneni123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
